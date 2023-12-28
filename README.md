@@ -1,7 +1,7 @@
 # Hi there, I'm Bence! 👋
 
 ## About Me
-I'm a passionate lover of IT who loves to experiment, with all kinds of things.
+I'm a passionate lover of IT who loves to experiment, with all kinds of things. I am currently a senior university student at FIIT STU (Informatics and Information technologies) 👨🏼‍🎓
 
 ### Skills
 - Programming Languages: JavaScript, Python, C++, basically anything which fits the job to do.
